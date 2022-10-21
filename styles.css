@@ -1,0 +1,29 @@
+.letsdryv{
+font-family: "Caveat", Times, serif;
+font-size: 120px;
+color: #733C3C;
+}
+.sub{
+  font-family: "Fasthand", Times, serif;
+  font-size: 40px;
+  color: #733C3C;
+}
+hr{
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 5px;
+  width: 5%
+}
+.button {
+    background-color: #FF8787;
+    border: none;
+    color: #FF8787;
+    padding: 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+  }
+  
